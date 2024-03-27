@@ -2,8 +2,7 @@
 - 👀 I’m interested in everything about technology
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on working with global SaaS developers to bring better SaaS to the world
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me **[BITIGNITER](https://bitigniter.dev/)**
 - ⚡ Fun fact: ...
 
 <!---
